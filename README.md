@@ -12,7 +12,6 @@
 
 ## Table of Contents
 
-  - [Live Demo](#live-demo)
   - [About Handy Pantry](#about-handy-pantry)
   - [Project Features](#project-features)
   - [Technical Specifications](#technical-specifications)
@@ -27,8 +26,6 @@
   - [User Guide](#user-guide)
   - [Contributors](#contributors)
 
-## Live Demo
-See a live demo of the handy pantry at https://159.223.190.88.nip.io/.
 
 ## About Handy Pantry
 
